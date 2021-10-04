@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "seethru-react-dns",
+    "slug": "seethru-react-dns",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "seethru-react-dns"
+}
